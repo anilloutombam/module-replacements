@@ -1298,6 +1298,11 @@
       "moduleName": "upper-case-first",
       "replacements": ["snippet::uppercase-first-character"]
     },
+    "util-arity": {
+      "type": "module",
+      "moduleName": "util-arity",
+      "replacements": ["snippet::set-function-length"]
+    },
     "validate.io-function": {
       "type": "module",
       "moduleName": "validate.io-function",
