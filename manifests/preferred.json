@@ -2622,6 +2622,12 @@
       "replacements": ["util.stripVTControlCharacters", "Bun.stripANSI"],
       "url": {"type": "e18e", "id": "strip-ansi"}
     },
+    "tar": {
+      "type": "module",
+      "moduleName": "tar",
+      "replacements": ["modern-tar"],
+      "url": {"type": "e18e", "id": "tar-fs"}
+    },
     "tar-fs": {
       "type": "module",
       "moduleName": "tar-fs",
